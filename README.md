@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently in my second year of graduation .<br>🌱 I’m currently Exploring DevOps and Cloud.<br>🎓 An Open-Source enthusiast.<br>💻 Working At Chegg as Subject Matter Expert in Computer Science.<br>💬 Ask me about Web Development, JAVA, MySQL.<br>😄 Pronouns: He/His<br>
+🔭 I’m currently in my third year of graduation .<br>🌱 I’m currently Exploring DevOps and Cloud.<br>🎓 An Open-Source enthusiast.<br>💻 Working At Chegg as Subject Matter Expert in Computer Science.<br>💬 Ask me about DevOps, AWS, JAVA, MySQL.<br>😄 Pronouns: He/His<br>
 
 
 ## 🌐 Socials:
